@@ -1,0 +1,31 @@
+Accession ID	Population
+NC_001643.1	Chimp
+KX663333.1	Denisovan
+KT780370.1	Denisovan
+MT795654.1	Neanderthal
+MK388903.1	Neanderthal
+MK123269.1	Neanderthal
+MG025540.1	Neanderthal
+MG025539.1	Neanderthal
+MG025538.1	Neanderthal
+MG025537.1	Neanderthal
+MG025536.1	Neanderthal
+KX198088.1	Neanderthal
+KX198087.1	Neanderthal
+KX198085.1	Neanderthal
+KF982693.1	Neanderthal
+MK033602.1	Neanderthal
+KM101737.1	AMH (African American)
+KM101738.1	AMH (African American)
+KM101735.1	AMH (African American)
+KM101734.1	AMH (African American)
+KM101732.1	AMH (African American)
+J01415.2	AMH (European American)
+MF317872.1	AMH (European American)
+KT946594.1	AMH (European American)
+KT946593.1	AMH (European American)
+KT946592.1	AMH (European American)
+AY195790.2	AMH (Asian American)
+AY195772.2	AMH (Asian American)
+AY195770.2	AMH (Asian American)
+AY195771.1	AMH (Asian American)

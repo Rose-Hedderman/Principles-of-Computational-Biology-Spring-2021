@@ -1,0 +1,154 @@
+ID	Year	City	Country
+AL0130	1599	Acqui Terme	Italy
+CN0001	1582	Alba	Italy
+AL0004	1582	Alessandria	Italy
+TR0037	1582	Amelia	Italy
+AT0005	1582	Asti	Italy
+BA0131	1599	Bari	Italy
+BN0064	1599	Benevento	Italy
+BG0026	1582	Bergamo	Italy
+BG0026	1599	Bergamo	Italy
+BG0039	1599	Bergamo	Italy
+BG0043	1599	Bergamo	Italy
+BI0025	1599	Biella	Italy
+BI0027	1599	Biella	Italy
+BO0552	1582	Bologna	Italy
+BO0098	1599	Bologna	Italy
+NO0011	1599	Borgomanero	Italy
+BS0031	1582	Brescia	Italy
+BS0026	1599	Brescia	Italy
+BS0031	1599	Brescia	Italy
+VA0030	1599	Busto Arsizio	Italy
+AR0101	1599	Camaldoli	Italy
+CE0009	1599	Capua	Italy
+AL0024	1599	Casale Monferrato	Italy
+FR0084	1599	Cassino	Italy
+CT0062	1599	Catania	Italy
+SA0088	1599	Cava dei Tirreni	Italy
+GE0012	1599	Chiavari	Italy
+EX0003	1582	Cittˆ del Vaticano	Vatican City
+EX0001	1599	Cittˆ del Vaticano	Vatican City
+EX0003	1599	Cittˆ del Vaticano	Vatican City
+RM2022	1599	Cittˆ del Vaticano	Vatican City
+CO0059	1599	Como	Italy
+CO0213	1599	Como	Italy
+CO0271	1599	Como	Italy
+CR0061	1599	Cremona	Italy
+CR0062	1599	Cremona	Italy
+BS0373	1599	Esine	Italy
+FE0009	1599	Ferrara	Italy
+PR0011	1599	Fidenza	Italy
+FI0015	1582	Fiesole	Italy
+FI0041	1599	Firenze	Italy
+FI0056	1599	Firenze	Italy
+FI0098	1599	Firenze	Italy
+CN0049	1599	Fossano	Italy
+CN0153	1599	Fossano	Italy
+VA0059	1582	Gallarate	Italy
+VA0059	1599	Gallarate	Italy
+NO0033	1599	Galliate	Italy
+GE0129	1582	Genova	Italy
+GE0038	1599	Genova	Italy
+GE0047	1599	Genova	Italy
+GE0139	1599	Genova	Italy
+RC0129	1599	Gioiosa Jonica	Italy
+BA0142	1599	Gravina di Puglia	Italy
+PG0049	1599	Gubbio	Italy
+BO0199	1599	Imola	Italy
+TO0111	1599	Ivrea	Italy
+LE0098	1599	Lecce	Italy
+EN0031	1599	Leonforte	Italy
+LO0023	1599	Lodi	Italy
+UK0001	1582	London	UK
+UK0001	1599	London	UK
+LU0022	1599	Lucca	Italy
+MC0171	1582	Macerata	Italy
+LE0108	1599	Maglie	Italy
+MN0035	1599	Mantova	Italy
+MN0041	1599	Mantova	Italy
+TP0011	1599	Mazara del Vallo	Italy
+AV0045	1599	Mercogliano	Italy
+ME0078	1599	Messina	Italy
+VE0266	1599	Mestre	Italy
+MI0133	1582	Milano	Italy
+MI0183	1582	Milano	Italy
+MI0185	1582	Milano	Italy
+MI0190	1582	Milano	Italy
+MI0489	1582	Milano	Italy
+MI1262	1582	Milano	Italy
+MI0133	1599	Milano	Italy
+MI0134	1599	Milano	Italy
+MI0150	1599	Milano	Italy
+MI0162	1599	Milano	Italy
+MI0183	1599	Milano	Italy
+MI0185	1599	Milano	Italy
+MI0291	1599	Milano	Italy
+MI0327	1599	Milano	Italy
+MI0355	1599	Milano	Italy
+MI0365	1599	Milano	Italy
+MI0489	1599	Milano	Italy
+MI0524	1599	Milano	Italy
+MO0089	1599	Modena	Italy
+BA0103	1599	Molfetta	Italy
+MI0377	1582	Monza	Italy
+MI0375	1599	Monza	Italy
+MI0377	1599	Monza	Italy
+NO0054	1599	Novara	Italy
+NO0064	1599	Novara	Italy
+BR0012	1599	Oria	Italy
+AN0056	1582	Osimo	Italy
+BR0015	1599	Ostuni	Italy
+PD0073	1599	Padova	Italy
+PR0028	1599	Parma	Italy
+PR0041	1599	Parma	Italy
+PR0072	1599	Parma	Italy
+PV0079	1582	Pavia	Italy
+PV0074	1599	Pavia	Italy
+PV0291	1599	Pavia	Italy
+PG0109	1599	Perugia	Italy
+PG0151	1599	Perugia	Italy
+PI0112	1582	Pisa	Italy
+PI0046	1599	Pisa	Italy
+PT0019	1599	Pistoia	Italy
+PO0005	1582	Prato	Italy
+RE0052	1599	Reggio Emilia	Italy
+RM0267	1582	Roma	Italy
+RM0575	1582	Roma	Italy
+RM1909	1582	Roma	Italy
+RM0267	1599	Roma	Italy
+RM0281	1599	Roma	Italy
+RM0290	1599	Roma	Italy
+RM0313	1599	Roma	Italy
+RM0575	1599	Roma	Italy
+RM0716	1599	Roma	Italy
+RM0731	1599	Roma	Italy
+RM0976	1599	Roma	Italy
+RM1909	1599	Roma	Italy
+CS0133	1599	Rossano	Italy
+SA0063	1599	Salerno	Italy
+RN0028	1599	Santarcangelo di Romagna	Italy
+VI0119	1599	Schio	Italy
+AG0042	1599	Sciacca	Italy
+MI0441	1599	Seregno	Italy
+MI1013	1599	Seregno	Italy
+SR0052	1599	Siracusa	Italy
+LC0098	1599	Somasca di Vercurago	Italy
+TO0264	1582	Torino	Italy
+TO0071	1599	Torino	Italy
+TO0240	1599	Torino	Italy
+TO0264	1599	Torino	Italy
+TO0472	1599	Torino	Italy
+SI0161	1599	Torrita di Siena	Italy
+TN0122	1582	Trento	Italy
+TN0132	1599	Trento	Italy
+TN0134	1599	Trento	Italy
+PU0127	1599	Urbino	Italy
+PU0206	1599	Urbino	Italy
+VA0122	1582	Venegono Inferiore	Italy
+VA0122	1599	Venegono Inferiore	Italy
+VE0049	1599	Venezia	Italy
+IM0038	1582	Ventimiglia	Italy
+VC0073	1582	Vercelli	Italy
+FR0072	1599	Veroli	Italy
+PV0188	1599	Vigevano	Italy
+PV0356	1599	Vigevano	Italy
