@@ -2,4 +2,4 @@
 
 Consolidation of project work from BIO 321G. Environment setup and tools used are outlined in Syllabus. 
 
-Final Project is under **Project/Mini Final Project/MiniReport BIO321G**
+Final Project is under **Projects/Mini Final Project/MiniReport BIO321G**
